@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Yes Chef Control Room</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;600;800&family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="stage">
+      <video id="cameraPreview" autoplay playsinline muted></video>
+      <canvas id="frameCanvas" hidden></canvas>
+
+      <div id="overlay" class="overlay overlay-hidden">
+        <div id="overlayText" class="overlay-text"></div>
+      </div>
+
+      <section id="briefingPanel" class="briefing">
+        <div class="briefing-label">Cooking</div>
+        <div id="cookingName" class="cooking-name">What are we cooking?</div>
+      </section>
+
+      <section class="center-step-wrap" aria-live="polite">
+        <div id="nextStepText" class="center-step-text">Press START and say the dish name.</div>
+      </section>
+
+      <section id="introPrompt" class="intro-prompt">
+        <button id="startButton" class="start-button">START</button>
+      </section>
+    </main>
+
+    <script src="/app.js" defer></script>
+  </body>
+</html>

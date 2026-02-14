@@ -1,0 +1,46 @@
+version: 1
+recipes:
+  - dish: Sticky Date Pudding with Butterscotch Sauce
+    dish_key: sticky date pudding with butterscotch sauce
+    recipe: |-
+      Sticky Date Pudding with Butterscotch Sauce
+
+      Sticky Date Pudding
+      Ingredients:
+      - 200g medjool dates, pitted and chopped
+      - 1 1/4 cups (310ml) boiling water
+      - 1 tsp bicarbonate of soda
+      - 75g butter, softened
+      - 3/4 cup (165g) dark brown sugar
+      - 2 large eggs, at room temperature
+      - 1 tsp vanilla extract
+      - 1 cup (150g) self-raising flour
+      - Pinch of salt
+
+      Steps:
+      1. Preheat oven to 180C (160C fan-forced). Butter 6-8 ramekins or a 20cm square tin.
+      2. Place dates in a bowl, pour over boiling water and stir in bicarbonate of soda. Let stand 15 minutes, then mash well with a fork.
+      3. Beat butter and sugar for 2-3 minutes until light and fluffy.
+      4. Beat in eggs one at a time with vanilla.
+      5. Stir in warm date mixture.
+      6. Sift flour and salt over mixture, then gently fold until just combined.
+      7. Divide between ramekins and bake 30-35 minutes (40-45 minutes for a large tin) until a skewer comes out with moist crumbs.
+      8. Serve immediately with butterscotch sauce.
+
+      Butterscotch Sauce
+      Ingredients:
+      - 100g butter
+      - 1 cup (220g) dark brown sugar
+      - 1 cup (250ml) cream
+      - 1 tsp vanilla extract
+      - Pinch of sea salt
+
+      Steps:
+      1. Melt butter in a saucepan over medium-low heat.
+      2. Add sugar and stir until dissolved (2-3 minutes).
+      3. Remove from heat and slowly add cream while stirring.
+      4. Return to heat, bring to a gentle boil, then simmer 5-7 minutes until thickened.
+      5. Remove from heat and stir in vanilla and salt.
+      6. Serve warm over puddings.
+    completed_at: '2026-02-14T04:38:00Z'
+    times_cooked: 1
